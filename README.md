@@ -1,17 +1,17 @@
-👋 Hi, I'm Santiago
+ Hi, I'm Santiago
 
-💻 Backend Developer adaptable to different needs and environments.
+ Backend Developer adaptable to different needs and environments.
 I mainly focus on server-side logic, automation, and data handling, prioritizing efficient, scalable, and well-structured solutions.
 
-🚀 About Me
+ About Me
 
-🧠 I quickly adapt to new challenges and technologies
-🔧 Strong experience in backend development
-🤖 Interested in process automation and workflow optimization
-📈 Focused on practical and maintainable solutions
+ I quickly adapt to new challenges and technologies
+ Strong experience in backend development
+ Interested in process automation and workflow optimization
+ Focused on practical and maintainable solutions
 Even if I don’t have enough knowledge in a specific technology, I don’t get frustrated—I find efficient ways to learn it, often learning from others
 
-🛠️ Technologies
+ Technologies
 
 Backend
 <p align="left"> 
@@ -50,9 +50,9 @@ Automation & Tools
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" title="Visual Studio" width="40"/> 
 </p>
 
-📌 What You Can Find Here
+ What You Can Find Here
 *   Backend projects with Node.js, Go, and more
 *   Examples using relational and NoSQL databases
 *   Code focused on best practices and clarity
 
-⭐ Always open to new challenges, continuous learning, and constant improvement. 🚀
+ Always open to new challenges, continuous learning, and constant improvement. 🚀
